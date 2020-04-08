@@ -29,12 +29,12 @@ reddit:
 
 email:
   name: "Email me"
-  urlTemplate: "mailto:{value}"
+  urlTemplate: "mailto:pcourbois@gmail.com"
   icon: "fas fa-envelope"
 
 linkedin:
   name: "LinkedIn"
-  urlTemplate: "https://linkedin.com/in/{value}"
+  urlTemplate: "https://linkedin.com/in/pipcourbois"
   icon: "fab fa-linkedin"
 
 xing:
